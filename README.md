@@ -8,3 +8,4 @@ JavaFX Projects solved by me (Freshman year).
 4. [TipCalculator](https://github.com/AnisPartovov/JavaFX-Projects/tree/main/TipCalculator)
 5. [PainterAppModification](https://github.com/AnisPartovov/JavaFX-Projects/tree/main/PainterAppModification)
 6. [ContactsModification](https://github.com/AnisPartovov/JavaFX-Projects/tree/main/ContactsModification)
+7. [ColorChooserAppModification](https://github.com/AnisPartovov/JavaFX-Projects/tree/main/ColorChooserAppModification)
