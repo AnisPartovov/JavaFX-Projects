@@ -7,3 +7,4 @@ JavaFX Projects solved by me (Freshman year).
 3. [TargetHeartRateCalculator](https://github.com/AnisPartovov/JavaFX-Projects/tree/main/TargetHeartRateCalculator/TargetHeartRateCalculator)
 4. [TipCalculator](https://github.com/AnisPartovov/JavaFX-Projects/tree/main/TipCalculator)
 5. [PainterAppModification](https://github.com/AnisPartovov/JavaFX-Projects/tree/main/PainterAppModification)
+6. [ContactsModification](https://github.com/AnisPartovov/JavaFX-Projects/tree/main/ContactsModification)
